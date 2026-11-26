@@ -117,7 +117,3 @@ layers and slowly pan/parallax them with ffmpeg) is possible but won't match the
 real scene's water/foliage/particles/clock, so the VM recording is the reliable
 route.
 
-## Notes on your other download
-
-- `3021397595_VSTHEMES-ORG.zip` is **0 bytes** (failed download) — re-download
-  that workshop item before trying to process it.
